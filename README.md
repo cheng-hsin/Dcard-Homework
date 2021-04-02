@@ -1,7 +1,7 @@
 # Dcard-Homework
 申請狄卡實習
 
-# USAGE
+# Terminal
 ```
 npm i
 ```
